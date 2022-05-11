@@ -4,7 +4,7 @@ Projeto com objetivo de realizar o controle de negociacoes com padrões de proje
 
 ## 🚀 Começando
 
-Deply realizado na [Vercel](https://vercel.com/dashboard), link do site online https://negociacoes-control.vercel.app/ <br> <br>
+Deploy realizado na [Vercel](https://vercel.com/dashboard), link do site online https://negociacoes-control.vercel.app/ <br> <br>
 
 Para obter o código na sua máquina você precisará criar uma pasta, no local desejado, abrir o terminal Git Bash na pasta em questão e realizar o seguinte comando:<br>
 git clone https://github.com/DEVitor-Gabriel/NegociacoesControl.git
